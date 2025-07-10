@@ -18,3 +18,5 @@ This project classifies satellite images into 44+ categories (like forest, runwa
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+Data Set Link:  https://drive.google.com/file/d/12eDQH0viFRpmr13WIMMe-S4JAuNLq18p/view?usp=sharing

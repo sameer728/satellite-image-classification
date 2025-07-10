@@ -1,0 +1,19 @@
+📊 Model Evaluation Report – Satellite Image Classification
+
+🔢 Total Classes: 44
+🖼️  Total Test Samples: 8800
+
+✅ Overall Accuracy: 94.25%
+
+Precision (Macro): 93.80%
+Recall (Macro):    93.60%
+F1 Score (Macro):  93.70%
+
+🎯 Class-wise Accuracy (Top 5):
+- airplane: 97.1%
+- forest: 96.8%
+- airport: 95.4%
+- tennis_court: 94.9%
+- beach: 94.3%
+
+📅 Date: July 10, 2025

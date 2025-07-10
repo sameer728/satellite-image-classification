@@ -1,0 +1,8 @@
+# Ignore all .npy files (like features.npy)
+*.npy
+
+# Optional: ignore model and dataset files
+*.pkl
+*.zip
+*.h5
+/data/
